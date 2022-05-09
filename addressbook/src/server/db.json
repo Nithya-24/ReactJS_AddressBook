@@ -1,0 +1,31 @@
+{
+  "addressBook": [
+    {
+      "fullName": "NithyaR",
+      "address": "sarchiuaadewr",
+      "city": "Mumbai",
+      "state": "Jharkhand",
+      "phoneNumber": "78945612300",
+      "zipCode": "626 145",
+      "id": 1
+    },
+    {
+      "fullName": "Nithy",
+      "address": "asdasd",
+      "city": "Mumbai",
+      "state": "Kerala",
+      "phoneNumber": "78945612300",
+      "zipCode": "626 123 ",
+      "id": 2
+    },
+    {
+      "fullName": "Nithya",
+      "address": "asdfd Masd",
+      "city": "Mumbai",
+      "state": "Kerala",
+      "phoneNumber": "+91789456123",
+      "zipCode": "626130 ",
+      "id": 4
+    }
+  ]
+}
